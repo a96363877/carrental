@@ -68,8 +68,8 @@ export default function CarBookingPage() {
               </div>
             </div>
             <div className="flex-1">
-              <Image
-                src="/placeholder.svg?height=400&width=600"
+              <img
+                src="/car.webp"
                 alt="صورة سيارة فاخرة"
                 width={600}
                 height={400}
